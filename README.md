@@ -2,6 +2,7 @@
 <hr> -->
 
 <h1 align="center">Hacks are up, but many are broken.</h1>
+<h3 align="center">Note: Bugs may appear while using the Chrome extension. (Old info: Edge extension is out-of-date)</h3>
 
 <h1 align="center">
 	<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/wiki/How-to-install-hacks">
