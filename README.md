@@ -88,7 +88,7 @@ We're not trying to break the game because we're evil. We wanted to help Prodigy
 
 Because of that, we're publicly showing hacks! That, and it's also just fun :)
 
-All of our hacks are open source, and free. No paywalls, no ads, and no Patreon. If you really want to support us, you can Nitro boost our Discord server [here](https://discord.gg/XQDfbfq)!
+All of our hacks are open source, and free. No paywalls, no ads, and no Patreon. If you really want to support us, you can Nitro boost our Discord server [here](https://discord.gg/XQDfbfq)! [Quick note: If you got this from a paywall (AdFly, etc.), demand a refund.]
 </details>
 
 <details>
